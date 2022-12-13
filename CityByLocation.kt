@@ -1,4 +1,4 @@
-package zebrains.organizer.pro.providers
+
 
 data class CityAndDelta(val cityByLocationItem: CityByLocationItem, val delta: Double)
 data class CityByLocationItem(
